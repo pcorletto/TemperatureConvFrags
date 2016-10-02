@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TemperatureConvFrags</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="fahrenheit_input_prompt">Enter Fahrenheit temperature:</string>
+    <string name="celsius_input_prompt">Enter Celsius temperature:</string>
+    <string name="fahrenheit_output_prompt">The equivalent Fahrenheit temp is:</string>
+    <string name="celsius_output_prompt">The equivalent Celsius temp is:</string>
+    <string name="convert_button_prompt">Convert</string>
+    <string name="ftoc_button_prompt">F to C</string>
+    <string name="ctof_button_prompt">C to F</string>
+    <string name="chart_button_prompt">Chart</string>
+</resources>
